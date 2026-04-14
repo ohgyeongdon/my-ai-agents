@@ -1,0 +1,33 @@
+{
+    "id": "20260403",
+    "title": "Lim Young-woong Whiskey Cheers",
+    "target_duration": 18.0,
+    "scene_files": [
+        "c:/Users/iljoo/Desktop/Work/꼭하자/youtube_shorts_automation/assets/20260403_Mission_Result/frames/frame_1.png",
+        "c:/Users/iljoo/Desktop/Work/꼭하자/youtube_shorts_automation/assets/20260403_Mission_Result/frames/frame_2.png",
+        "c:/Users/iljoo/Desktop/Work/꼭하자/youtube_shorts_automation/assets/20260403_Mission_Result/frames/frame_3.png",
+        "c:/Users/iljoo/Desktop/Work/꼭하자/youtube_shorts_automation/assets/20260403_Mission_Result/frames/frame_4.png",
+        "c:/Users/iljoo/Desktop/Work/꼭하자/youtube_shorts_automation/assets/20260403_Mission_Result/frames/frame_5.png",
+        "c:/Users/iljoo/Desktop/Work/꼭하자/youtube_shorts_automation/assets/20260403_Mission_Result/frames/frame_6.png",
+        "c:/Users/iljoo/Desktop/Work/꼭하자/youtube_shorts_automation/assets/20260403_Mission_Result/frames/frame_7.png",
+        "c:/Users/iljoo/Desktop/Work/꼭하자/youtube_shorts_automation/assets/20260403_Mission_Result/frames/frame_8.png",
+        "c:/Users/iljoo/Desktop/Work/꼭하자/youtube_shorts_automation/assets/20260403_Mission_Result/frames/frame_9.png"
+    ],
+    "voiceover_parts": [
+        { "scene": 1, "character": "Uzzanyang", "text": "아... 야근 진짜 싫다. 그래도 영웅님 보면서 버텨야지." },
+        { "scene": 2, "character": "Uzzanyang", "text": "와, 위스키 드시는 모습도 진짜 예술이다..." },
+        { "scene": 4, "character": "Uzzanyang", "text": "헙! 팀장님?" },
+        { "scene": 6, "character": "Uzzanyang", "text": "아... 다행히 아니네. 근데 내 손엔 다 식은 믹스커피뿐이고..." },
+        { "scene": 8, "character": "Uzzanyang", "text": "영웅님, 저도... 치어스! 아, 짜다." },
+        { "scene": 9, "character": "Uzzanyang", "text": "내 인생... 이게 맞나?" }
+    ],
+    "subtitles": [
+        { "scene": 1, "start_time": 0.0, "end_time": 2.0, "text": "야근 중 도파민 충전 중 🐱" },
+        { "scene": 2, "start_time": 2.0, "end_time": 4.0, "text": "영웅님... 위스키라니... 🥃" },
+        { "scene": 4, "start_time": 6.0, "end_time": 8.0, "text": "깜짝아!! 😨" },
+        { "scene": 6, "start_time": 10.0, "end_time": 12.0, "text": "현실은 믹스커피 ☕" },
+        { "scene": 8, "start_time": 14.0, "end_time": 16.0, "text": "처량한 치어스... 🍻" },
+        { "scene": 9, "start_time": 16.0, "end_time": 18.0, "text": "내일도 출근이라니 💀" }
+    ],
+    "video_file": "c:/Users/iljoo/Desktop/Work/꼭하자/youtube_shorts_automation/assets/20260403_Mission_Result/final_short.mp4"
+}

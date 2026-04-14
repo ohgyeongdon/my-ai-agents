@@ -1,0 +1,18 @@
+{
+  "title": "zoSso_nyangz Ep 001: The True SME Story",
+  "voiceover_parts": [
+    {"character": "Uzzanyang", "text": "어쩌지 어쩌지? 어떡해... (Nya~)", "start": 0, "end": 10},
+    {"character": "Beotyeonyang", "text": "그래.. 우린 좆소냥즈다. 후..... (Deep breath)", "start": 10, "end": 20}
+  ],
+  "subtitles": [
+    {"start_time": 0, "end_time": 10, "text": "어쩌지 어쩌지?"},
+    {"start_time": 10, "end_time": 20, "text": "그래.. 우린 좆소냥즈다. 후....."}
+  ],
+  "visual_plan": [
+    "Scene 1: Uzzanyang crying (ep1_Scene1)",
+    "Scene 2: Uzzanyang distressed (ep1_Scene2)",
+    "Scene 3: Beotyeonyang's deep moment (ep1_Scene3)"
+  ],
+  "description": "Yeah... we are zoSso_nyangz. #zoSso_nyangz #SME #OfficeCat",
+  "tags": ["zoSso_nyangz", "office", "cats", "animation"]
+}

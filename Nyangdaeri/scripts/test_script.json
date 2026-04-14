@@ -1,0 +1,13 @@
+{
+  "target_duration": 3.0,
+  "voiceover_parts": [
+    {"character": "Uzzanyang", "text": "테스트입니다."}
+  ],
+  "subtitles": [
+    {"start_time": 0, "end_time": 3.0, "text": "테스트 자막입니다."}
+  ],
+  "scene_files": [
+    "test_scene.mp4"
+  ],
+  "video_file": "test_output.mp4"
+}

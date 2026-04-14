@@ -1,0 +1,56 @@
+{
+  "title": "POV: Working at a Small Company 😿 #Shorts",
+  "description": "POV: It's another brutal day at the office and zoSso_nyangz are barely surviving... 😭\n\nTag a coworker who feels this EVERY. SINGLE. DAY. 👇\n\n🐾 Follow @zoSso_nyangz for more office cat pain every week!\n\n#Shorts #CatShorts #OfficeCats #WorkLife #MondayMood #SurvivalMode #FunnyCats #CuteCats #OfficeHumor #WorkHumor #Relatable #fyp #viral #trending #animation #3Danimation #KoreanCats #zoSsonyangz",
+  "tags": [
+    "Shorts",
+    "CatShorts",
+    "OfficeCats",
+    "WorkLife",
+    "MondayMood",
+    "SurvivalMode",
+    "FunnyCats",
+    "CuteCats",
+    "OfficeHumor",
+    "Relatable",
+    "fyp",
+    "viral",
+    "3Danimation",
+    "zoSsonyangz",
+    "KoreanCats",
+    "WorkHumor",
+    "animation",
+    "trending",
+    "officememes",
+    "workmemes"
+  ],
+  "category_id": "1",
+  "video_file": "assets/zoSso_ep3_final.mp4",
+  "target_duration": 18.0,
+  "voiceover_parts": [],
+  "subtitles": [],
+  "scene_files": [
+    "assets/zoSso_ep3_scene1.mp4",
+    "assets/zoSso_ep3_scene2.mp4",
+    "assets/zoSso_ep3_scene3.mp4"
+  ],
+  "bgm": "assets/bgm_sad_office.mp3",
+  "scene_plan": {
+    "scene1": {
+      "duration": 6,
+      "description": "우짜냥 클로즈업 — 눈물 그렁그렁, 무너지기 직전",
+      "flow_prompt": "Extreme close-up of an orange tabby cat 'Uzzanyang' in an office, eyes filled with huge tears about to fall, shaking slightly. Desaturated cold office colors, only the vibrant blue tears stand out. 3D Pixar animation style, 9:16 vertical, cinematic lighting."
+    },
+    "scene2": {
+      "duration": 6,
+      "description": "버텨냥 미드샷 — 텅 빈 눈으로 모니터 응시, 믹스커피",
+      "flow_prompt": "Mid-shot of a grey cat 'Beotyeonyang' in a dark office at night, lit only by the cold blue glow of a monitor. Holding a cup of instant mix coffee with a hollow, completely burnt-out stare. Melancholic atmosphere. 3D Pixar animation style, 9:16 vertical."
+    },
+    "scene3": {
+      "duration": 6,
+      "description": "둘이 나란히 어깨 늘어진 채 창밖 응시",
+      "flow_prompt": "Wide shot of two cats, orange Uzzanyang and grey Beotyeonyang, sitting side by side at their office desks, shoulders drooping, staring blankly out a rain-covered window at a grey city. Silent shared exhaustion. 3D Pixar animation style, 9:16 vertical."
+    }
+  },
+  "upload_privacy": "public",
+  "comments_note": "Pin a comment: '어제의 나... 😭 Tag a coworker 👇'"
+}
