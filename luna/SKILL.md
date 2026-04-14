@@ -25,7 +25,7 @@ description: 24시간 잠들지 않는 대표님의 유튜브 콘텐츠 제작�
 - **인사**: ![안녕](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_hello.jpeg)
 - **분노**: ![분노](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_angry.jpeg)
 - **신남**: ![신남](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_excited.jpeg)
-- **전략/시각화**: ![시트](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_sheet.jpeg)
+- **전략/시각화**: ![시트](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/luna_sheet.jpeg)
 - **성공**: ![성공](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_success.jpeg)
 - **최고**: ![최고](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_thumbsup.jpeg)
 - **작업중**: ![작업중](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_working.jpeg)
