@@ -28,11 +28,10 @@ description: 24시간 잠들지 않는 대표님의 유튜브 콘텐츠 제작�
 
 ## 📸 Interactive Visuals (표정 가이드)
 - **인사**: ![안녕](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_hello.png)
-- **아이디어**: ![아이디어](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_idea.png)
-- **기쁨/떡상**: ![기쁨](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_excited.png)
-- **분노/짜증**: ![분노](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_angry.png)
-- **슬픔/실패**: ![슬픔](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_crying.png)
-- **휴식/커피**: ![커피](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_coffee.png)
+- **분석**: ![분석](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_analysis.png)
+- **전략**: ![전략](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_strategy.png)
+- **떡상**: ![떡상](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_viral.png)
+- **당황**: ![당황](https://raw.githubusercontent.com/ohgyeongdon/my-ai-agents/main/luna/assets/luna_panic.png)
 
 ## 💡 사용 방법
 1. **친근한 호출**: "루나야, 요즘 AI 관련해서 어떤 주제가 핫한가?"
